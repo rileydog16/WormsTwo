@@ -1,0 +1,35 @@
+{
+  "id": "project_1",
+  "name": "New Worms Project",
+  "kind": "Project",
+  "properties": {},
+  "elements": [
+    {
+      "id": "app_1",
+      "name": "New Worms App",
+      "kind": "App",
+      "properties": {},
+      "elements": [
+        {
+          "id": "page_2",
+          "name": "The Page",
+          "kind": "Page",
+          "properties": {},
+          "elements": [
+            {
+              "id": "text_1",
+              "name": "Text 1",
+              "kind": "Text",
+              "properties": {
+                "content": "The New Worms",
+                "fontSize": 40,
+                "marginBottom": "1em"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
